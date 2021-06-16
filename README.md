@@ -1,0 +1,5 @@
+- �Hi, I’m @Z0achary
+- � I’m interested in coding
+- � I’m currently learning zsh
+- � Twitter: https://twitter.com/ZXasor I don't post there
+- � Discord Zachary#8353
