@@ -1,4 +1,3 @@
-#### this isnt for github its actually for my discord webhook
+yes you guessed it im not here for coding
 
-this discord webhook is only for EDUCATIONAL purposes only.
- please dont use my website for bullying people.
+im here to fork repos also why tf is it called fork that sounds weird mork
