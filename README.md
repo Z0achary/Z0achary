@@ -1,7 +1,12 @@
 # About me
 I'm a C dev, a cuber and a linux fan
+## Rices
+![image1](https://raw.githubusercontent.com/Z0achary/Z0achary/main/2024-01-11-184415_1600x900_scrot.png)
 
-**MOST OF THESE ARE NOT MINE**
+![image2](https://raw.githubusercontent.com/Z0achary/Z0achary/main/2024-01-14-133223_1600x900_scrot.png)
+
+![image3](https://raw.githubusercontent.com/Z0achary/Z0achary/main/2024-01-23-200354_1600x900_scrot.png)
+
 ## window managers
 Window managers I have took a liking to.
 ### dwm
