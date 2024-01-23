@@ -1,5 +1,5 @@
 # About me
-I'm a C dev, a cuber and a linux fan
+arch ricer
 ## Rices
 ![image1](https://raw.githubusercontent.com/Z0achary/Z0achary/main/2024-01-11-184415_1600x900_scrot.png)
 
