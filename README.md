@@ -7,6 +7,9 @@ arch ricer
 
 ![image3](https://raw.githubusercontent.com/Z0achary/Z0achary/main/2024-01-23-200354_1600x900_scrot.png)
 
+## NOTICE
+I haven't used dwm,sowm and dk in a while I'm currently using [Hyprland](https://github.com/hyprwm/hyprland) it is a blazing fast wayland compositor.
+
 ## window managers
 Window managers I have took a liking to.
 ### dwm
