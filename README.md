@@ -40,18 +40,24 @@ Any nerd font that uses glyphs is recommended
 [**sowm-patches**](https://github.com/dylanaraps/sowm-patches)
 
 ## To do list of sowm
+[complete]
+- [x] Make sowm ewmh compliant
 
-- [ ] Make sowm ewmh compliant
-
-- [ ] Make sowm dynamic
+- [x] Make sowm dynamic
 
 - [x] Make sowm close windows into the background
 
-- [ ] Get a good bar (partially done)
+- [x] Get a good bar ~~(partially done)~~
 ## To do list of dwm
 
  - [x] Make dwm ewmh compliant
  
- - [ ] Fix my build of dwm
+ - [x] Fix my build of dwm
 
  - [x] Enjoy it
+## Wayland Compositors
+### Hyprland
+Hyprland is a tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks.
+
+- [ ] fix wallpaper issues (Hyprland drawing the wallpaper which I don't need because I use Hyprpaper.)
+- [x] nothing else, hyprland just works.
