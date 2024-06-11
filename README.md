@@ -1,8 +1,6 @@
 # About me
 arch ricer
 ## Rices
-![image0](https://raw.githubusercontent.com/Z0achary/Z0achary/main/20240310_10h55m03s_grim.png)
-
 ![image1](https://raw.githubusercontent.com/Z0achary/Z0achary/main/2024-01-11-184415_1600x900_scrot.png)
 
 ![image2](https://raw.githubusercontent.com/Z0achary/Z0achary/main/2024-01-14-133223_1600x900_scrot.png)
